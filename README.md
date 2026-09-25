@@ -81,7 +81,7 @@
 
 ### Software Developer Intern
 
-**Krumos Software**
+**Krumos Teach**
 
 Working on real-world web applications and backend systems using technologies such as:
 
