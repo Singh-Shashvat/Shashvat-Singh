@@ -243,9 +243,6 @@ I believe good development is about more than writing code.
 
 ### 💜 Thanks for visiting!
 
-<img src="https://komarev.com/ghpvc/?username=Singh-Shashvat&style=flat-square&color=7C3AED" alt="Profile Views" />
-
-<br/><br/>
 
 **Build • Learn • Improve • Repeat**
 
