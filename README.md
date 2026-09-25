@@ -198,16 +198,14 @@ I believe good development is about more than writing code.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Singh-Shashvat/Singh-Shashvat/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/Singh-Shashvat/Singh-Shashvat/refs/heads/output/github-snake-dark.svg"
     />
-
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Singh-Shashvat/Singh-Shashvat/output/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/Singh-Shashvat/Singh-Shashvat/refs/heads/output/github-snake.svg"
     />
-
     <img
-      src="https://raw.githubusercontent.com/Singh-Shashvat/Singh-Shashvat/output/github-snake.svg"
+      src="https://raw.githubusercontent.com/Singh-Shashvat/Singh-Shashvat/refs/heads/output/github-snake.svg"
       alt="GitHub Contribution Snake"
     />
   </picture>
